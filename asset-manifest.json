@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-paragraph-generator/static/css/main.8727408a.css",
+    "main.js": "/react-paragraph-generator/static/js/main.83133357.js",
+    "index.html": "/react-paragraph-generator/index.html",
+    "main.8727408a.css.map": "/react-paragraph-generator/static/css/main.8727408a.css.map",
+    "main.83133357.js.map": "/react-paragraph-generator/static/js/main.83133357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8727408a.css",
+    "static/js/main.83133357.js"
+  ]
+}
