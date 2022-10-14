@@ -1,5 +1,5 @@
 import React from 'react';
-import { useState, useEffect, useCallback } from 'react';
+import { useState } from 'react';
 import data from './data';
 
 const App = () => {
